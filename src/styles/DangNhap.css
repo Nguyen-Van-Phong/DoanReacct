@@ -1,0 +1,13 @@
+.All {
+    border: 1px solid black;
+}
+
+.butoon {
+    background-color: bisque;
+    color: black
+}
+
+.butoon:hover {
+    background-color: black;
+    color: white;
+}
